@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Oi eu sou a Girlei Carvalho, Sou Estudante de programação!
 
 
 <div style="display: inline_block"><br>
