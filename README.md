@@ -1,4 +1,4 @@
-## Oi eu sou a Girlei Carvalho, Sou Estudante de programação!
+## Oi eu sou O Girlei Carvalho, Sou Estudante de programação!
 
 
 <div style="display: inline_block"><br>
